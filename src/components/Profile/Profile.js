@@ -1,13 +1,19 @@
 import React, { useState } from 'react'
-import { Header } from '../Header/Header'
+import Header from '../Header/Header'
 import { Card, Button } from 'react-bootstrap'
 import classes from './Profile.module.css'
 import IMG from '../../assets/images/IMG1.JPG'
+import { Redirect } from 'react-router-dom'
 
 
 export const Profile = () => {
 
     const [toggle, setToggle] = useState(false)
+
+    
+    if(!localStorage.getItem('auth')){
+        return <Redirect to='/' />
+    }
 
     const URL = 'https://api.adorable.io/avatars/285/nikolamiljkovic91@gmail.com'
 

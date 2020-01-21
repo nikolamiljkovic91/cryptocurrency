@@ -1,5 +1,5 @@
 import React from 'react';
-import { CoinTable } from './components/CoinTable/CoinTable';
+import CoinTable from './components/CoinTable/CoinTable';
 import { Profile } from './components/Profile/Profile';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
