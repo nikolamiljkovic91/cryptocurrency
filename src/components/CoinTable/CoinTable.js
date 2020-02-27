@@ -14,7 +14,7 @@ const CoinTable = (props) => {
         pair.forEach((val) => {
            return props.onGetData((val))
         })
-        
+         
     }, [])
 
     let btcusd = props.data.BTCUSD.length
