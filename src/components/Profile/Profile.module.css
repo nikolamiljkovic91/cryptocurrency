@@ -1,0 +1,9 @@
+.Profile{
+    margin: 5% auto 0 auto;
+    border: none;
+}
+
+.ProfileText{
+    display: flex;
+    flex-direction: column;
+}
