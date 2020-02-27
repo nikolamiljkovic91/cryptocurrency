@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32db50d71ac07663f03608852367d732",
+    "revision": "ed7a4d97a8a06106ed59ae87f21ea1ec",
     "url": "/cryptocurrency/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cryptocurrency/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "9e0830d18e563d98e552",
+    "revision": "8b9792694149c287b1d6",
     "url": "/cryptocurrency/static/css/main.02829776.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cryptocurrency/static/js/2.434e370d.chunk.js.LICENSE"
   },
   {
-    "revision": "9e0830d18e563d98e552",
-    "url": "/cryptocurrency/static/js/main.4c55a5c8.chunk.js"
+    "revision": "8b9792694149c287b1d6",
+    "url": "/cryptocurrency/static/js/main.f96a5fd1.chunk.js"
   },
   {
     "revision": "f504ff19eaa8d52fc509",
